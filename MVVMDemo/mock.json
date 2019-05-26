@@ -1,0 +1,9 @@
+[{
+    "name": "Taipei",
+    "temperature": 20,
+    "precipitation": 25,
+    "location": {
+        "lattitude": 0.0001,
+        "longitude": 1.0002,
+    }
+}]
