@@ -15,7 +15,7 @@ In MVVM we only do things related to the view like layout, configure UI componen
 
 ## Demo
 ![MVVMDemo](./MVVMDemo.png)  
-![screenshot](./screenshot.png)  
+![screenshot](./screenshot.gif)  
 
 ## Pros and Cons
 Following table shows the pros and cons of MVVM.  
