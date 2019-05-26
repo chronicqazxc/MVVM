@@ -1,6 +1,6 @@
 # MVVM Introduction
 
-[MVVM](./MVVM.png)
+![MVVM](./MVVM.png)
 
 MVVM is one of the popular architecture patterns (MVC/MVVM/Clean/VIPER) in today's iOS app development. MVVM tend to resolve the problem of MVC and provide more cleaner architecture. All architectures has it's pros and cons, I will focus on MVVM and introduce with this demo project.
 
@@ -14,7 +14,8 @@ In MVVM we only do things related to the view like layout, configure UI componen
 3. ViewModel request data and update Model, the View will be updated accordingly.
 
 ## Demo
-[MVVMDemo](./MVVMDemo.png)  
+![MVVMDemo](./MVVMDemo.png)  
+![screenshot](./screenshot.png)  
 
 ## Pros and Cons
 Following table shows the pros and cons of MVVM.  

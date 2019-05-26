@@ -46,6 +46,7 @@
 		B0A772F2229A6C5900D96B9F /* MockWeatherFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockWeatherFetcher.swift; sourceTree = "<group>"; };
 		B0A772F5229A806B00D96B9F /* MVVM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MVVM.png; sourceTree = "<group>"; };
 		B0B7F1FE229AA78F002D1438 /* MVVMDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MVVMDemo.png; sourceTree = "<group>"; };
+		B0B7F1FF229AAA9A002D1438 /* screenshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshot.gif; sourceTree = "<group>"; };
 		B0EACC5A2291B6A5003B107F /* MVVMDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVMDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0EACC5D2291B6A5003B107F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0EACC5F2291B6A5003B107F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -117,6 +118,7 @@
 				B0A772F1229A4FAF00D96B9F /* Readme.md */,
 				B0A772F5229A806B00D96B9F /* MVVM.png */,
 				B0B7F1FE229AA78F002D1438 /* MVVMDemo.png */,
+				B0B7F1FF229AAA9A002D1438 /* screenshot.gif */,
 				B0A772F0229A4F9E00D96B9F /* .gitignore */,
 				B055FCA32299261700A4C904 /* Cartfile */,
 				B055FCA92299271400A4C904 /* InputFiles.xcfilelist */,
